@@ -1,8 +1,5 @@
 # QuizletKnockOff
 
-You might Be Asking Yourself What Is This. 
-This Product is an Application File that was made in C# .Net Framework
-
 The Purpose
 - It is to Help with Studying for all types of things, Science, Math, and so many other subjects.
 
@@ -20,3 +17,4 @@ How to Use
 How Long did it take to make?
 - This took about 6 Hours (Kinda Guess, I didnt really time it or anything and i was messing around a lot)
 - Why did it take so long, I was trying to come up with the best possible product that was easy to use and i Wanted it to work as fast as it could, so i had to brainstorm new ideas that would make it work how i wanted it to
+- It was made in C# .Net Framework
